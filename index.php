@@ -7,6 +7,15 @@
     <meta name="theme-color" content="#f8d315">
     <title>Al's Engineering - Trucking, Hauling & Equipment Rental Services</title>
 
+	<meta name="title" content="Al's Engineering" />
+	<meta name="description" content="Al's Engineering - Trucking, Hauling & Equipment Rental Services" />
+	<meta property="og:title" content="Al's Engineering" />
+	<meta property="og:description" content="Al's Engineering - Trucking, Hauling & Equipment Rental Services" />
+	<meta property='og:image' content="http://83.212.118.131/als/images/allogo.png"/>
+	<meta property="twitter:description" content="Al's Engineering - Trucking, Hauling & Equipment Rental Services" />
+	<meta property="twitter:title" content="Al's Engineering" />
+	<meta property="twitter:image" content="http://83.212.118.131/als/images/allogo.png" />
+
     <!-- CSS  -->
     <link href="min/plugin-min.css" type="text/css" rel="stylesheet">
     <link href="min/custom-min.css" type="text/css" rel="stylesheet" >
