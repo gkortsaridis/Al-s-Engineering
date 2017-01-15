@@ -11,7 +11,7 @@
 	<meta name="description" content="Al's Engineering - Trucking, Hauling & Equipment Rental Services" />
 	<meta property="og:title" content="Al's Engineering" />
 	<meta property="og:description" content="Al's Engineering - Trucking, Hauling & Equipment Rental Services" />
-	<meta property='og:image' content="http://83.212.118.131/als/images/allogo.png"/>
+	<meta property='og:image' content="http://83.212.118.131/als/images/allogo_fb.jpg"/>
 	<meta property="twitter:description" content="Al's Engineering - Trucking, Hauling & Equipment Rental Services" />
 	<meta property="twitter:title" content="Al's Engineering" />
 	<meta property="twitter:image" content="http://83.212.118.131/als/images/allogo.png" />
